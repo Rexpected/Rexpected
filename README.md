@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on anything I can learn about
-- 📫 How to reach me @ roaldj@pm.me
 
 <!---
 Rexpected/Rexpected is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
